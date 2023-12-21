@@ -1,0 +1,3 @@
+﻿  stack.cpp
+C:\Users\Aryan Khatri\Documents\C++ Programming\stackUsingLinkedList\stackUsingLinkedList\stack.cpp(42,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  stackUsingLinkedList.vcxproj -> C:\Users\Aryan Khatri\Documents\C++ Programming\stackUsingLinkedList\x64\Debug\stackUsingLinkedList.exe
